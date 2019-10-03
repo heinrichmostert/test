@@ -1,0 +1,28 @@
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<div id="app" class="my-5" style="height:500px;">
+				<h1 v-if="seen">Vue App</h1>
+				<p>{{ message }}</p>
+			<ol>
+                <li v-for="todo in todos">
+                {{ todo.text }}
+                </li>
+            </ol>
+			<ol>
+                <todo-item></todo-item>
+                <todo-item></todo-item>
+            </ol>
+
+			<button class="btn btn-primary" v-on:click="reverseMessage">Reverse Message</button>
+			<input v- model="message" class="form-control mt-3">
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+@section Scripts {
+	<script src="/js/app.js"></script>
+}

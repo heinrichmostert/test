@@ -1,0 +1,31 @@
+/Users/heinrichmostert/Desktop/New Project/bin/Debug/netcoreapp2.2/New Project.deps.json
+/Users/heinrichmostert/Desktop/New Project/bin/Debug/netcoreapp2.2/New Project.runtimeconfig.json
+/Users/heinrichmostert/Desktop/New Project/bin/Debug/netcoreapp2.2/New Project.runtimeconfig.dev.json
+/Users/heinrichmostert/Desktop/New Project/bin/Debug/netcoreapp2.2/New Project.dll
+/Users/heinrichmostert/Desktop/New Project/bin/Debug/netcoreapp2.2/New Project.pdb
+/Users/heinrichmostert/Desktop/New Project/bin/Debug/netcoreapp2.2/New Project.Views.dll
+/Users/heinrichmostert/Desktop/New Project/bin/Debug/netcoreapp2.2/New Project.Views.pdb
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.csprojAssemblyReference.cache
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.csproj.CoreCompileInputs.cache
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.RazorAssemblyInfo.cache
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.RazorAssemblyInfo.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.AssemblyInfoInputs.cache
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.AssemblyInfo.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.TagHelpers.input.cache
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.TagHelpers.output.cache
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.RazorCoreGenerate.cache
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.RazorTargetAssemblyInfo.cache
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.RazorTargetAssemblyInfo.cs
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.Views.pdb
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.dll
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.pdb
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/New Project.csproj.CopyComplete
+/Users/heinrichmostert/Desktop/New Project/obj/Debug/netcoreapp2.2/Razor/Views/Home/Apps.g.cshtml.cs

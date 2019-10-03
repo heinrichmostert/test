@@ -14,6 +14,10 @@ namespace New_Project.Controllers
         {
             return View();
         }
+        public IActionResult Apps()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

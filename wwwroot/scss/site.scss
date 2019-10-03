@@ -1,0 +1,23 @@
+/*!
+ * Dot Slash v4.3.1 (http://www.dotslash.co.za/)
+ * Copyright 2011-2019 Dot Slash.
+ */
+ 
+// Font Smoothing 
+html, html a, body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility !important;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.004); 
+  outline: none;
+}
+
+// Fonts 
+
+
+// Bootstrap
+@import "bootstrap/bootstrap";
+
+// Pages
+
+//Skin 
